@@ -1,0 +1,23 @@
+{
+	"name": "new-joy-times-website",
+	"version": "1.0.0",
+	"description": "Mobi Dreams Limited",
+	"main": "index.html",
+	"scripts": {
+		"build": "echo 'Static site - no build required'",
+		"start": "echo 'Static site - no start script required'"
+	},
+	"keywords": [
+		"website",
+		"company",
+		"static",
+		"html",
+		"css",
+		"javascript"
+	],
+	"author": "Mobi Dreams Limited",
+	"license": "MIT",
+	"engines": {
+		"node": ">=14.0.0"
+	}
+}
